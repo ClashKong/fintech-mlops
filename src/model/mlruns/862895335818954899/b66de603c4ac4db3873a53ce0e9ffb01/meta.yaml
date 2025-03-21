@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mgoeb/Desktop/Github-Portfolio/neue/fintech-mlops/src/model/mlruns/862895335818954899/b66de603c4ac4db3873a53ce0e9ffb01/artifacts
+end_time: 1742548476000
+entry_point_name: ''
+experiment_id: '862895335818954899'
+lifecycle_stage: active
+run_id: b66de603c4ac4db3873a53ce0e9ffb01
+run_name: auspicious-seal-833
+run_uuid: b66de603c4ac4db3873a53ce0e9ffb01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742548471462
+status: 3
+tags: []
+user_id: mgoeb
